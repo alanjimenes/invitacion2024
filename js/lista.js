@@ -175,12 +175,14 @@ const lista_invitados_hombres = [
     {
       nombre: "Isabela Anazagatis",
       invitados: [
+        "Johanna Anazagatis (Isabela Anazagatis)",
         "Eduardo Almonte (Isabela Anazagatis)",
         "Frandy García (Isabela Anazagatis)",
         "Lixander Castillo (Isabela Anazagatis)",
         "Mónica Castillo (Isabela Anazagatis)",
         "Carlos Castillo (Isabela Anazagatis)",
-        "Miguel Ángel Lebrón (Isabela Anazagatis)"
+        "Miguel Ángel Lebrón (Isabela Anazagatis)",
+        "Edward Jimenez (Isabela Anazagatis)",
       ]
     },
     {
