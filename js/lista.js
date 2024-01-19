@@ -10,7 +10,8 @@ const lista_invitados_hombres = [
       "Franyany Rodriguez (Alan Jimenez)",
       "Jose Gabriel Guerra (Alan Jimenez)",
       "Paul Guerra Rosado (Alan Jimenez)",
-      "Juan (Alan Jimenez)"
+      "Juan (Alan Jimenez)",
+      "Rocio Grullon (Alan Jimenez)"
     ]
   },
   {
@@ -271,7 +272,8 @@ const lista_invitados_hombres = [
         "Alondra Acevedo (Angel Nathanael Castillo)",
         "Oranyi Diaz (Angel Nathanael Castillo)",
         "Raynell Cruz (Angel Nathanael Castillo)",
-        "Valery Nuñez (Angel Nathanael Castillo)"
+        "Valery Nuñez (Angel Nathanael Castillo)",
+         "Joel Batista (Angel Nathanael Castillo)"
       ]
     },
     {
