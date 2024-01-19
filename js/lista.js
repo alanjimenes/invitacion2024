@@ -46,12 +46,14 @@ const lista_invitados_hombres = [
       "Miguel Ángel (Angel Jose Queliz)",
       "Abuela (Angel Jose Queliz)",
       "Abuelo (Angel Jose Queliz)",
-      "Tía Jaquelín (Angel Jose Queliz)",
       "Briandra (Angel Jose Queliz)",
       "María de los Ángeles (Angel Jose Queliz)",
       "Brenda abad Abreu (Angel Jose Queliz)",
-      "Derlin (Angel Jose Queliz)",
-      "Erick maceta (Angel Jose Queliz)"
+      "Derlin confirmado (Angel Jose Queliz)",
+      "Fátima Páez Jimenez (Angel Jose Queliz)",
+      "Arianyi Matias (Angel Jose Queliz)",
+      "Frederick Soriano (Angel Jose Queliz)",
+      "Arlenis Abreu (Angel Jose Queliz)"
     ]
   },
   {
