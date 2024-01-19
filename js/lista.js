@@ -361,7 +361,8 @@ const lista_invitados_hombres = [
     "Keyla (Eddy Jimenez)",
     "Makiely (Eddy Jimenez)",
     "Thulsy (Eddy Jimenez)",
-    "Maiky (Eddy Jimenez)"
+    "Maiky (Eddy Jimenez)",
+    "Isabella Abud (Eddy Jimenez)"
   ]   
     
 } ,
@@ -392,12 +393,14 @@ invitados: [
     "Carmelia Moreno (Enrique Rosa Veloz)",
     "Angelica Guzman (Enrique Rosa Veloz)",
     "Isaylen (Enrique Rosa Veloz)",
-    "Jhon Payano (Enrique Rosa Veloz)"
+    "Jhon Payano (Enrique Rosa Veloz)",
+    "Junior Colón (Enrique Rosa Veloz)"
   ]
 },
 {
   nombre: "Erick Enger",
   invitados: [
+    "Erickson Candelario (Erick Enger)",
     "Erianna Massiel Candelario (Erick Enger)",
     "Andriel Santana (Erick Enger)",
     "Jenny Candelario (Erick Enger)",
@@ -527,6 +530,23 @@ let colaboradores = [
   ];
 
 
+
+// Función para contar el número total de invitados excluyendo al que invita
+function contarInvitados(lista) {
+  let totalInvitados = 0;
+
+  // Iterar sobre cada persona y sumar el número de invitados
+  lista.forEach(persona => {
+    totalInvitados += persona.invitados.length;
+  });
+
+  return totalInvitados;
+}
+
+// Llamar a la función y restar el número de personas que invitan
+const totalInvitados = contarInvitados(lista_invitados_hombres) - lista_invitados_hombres.length;
+
+console.log("El número total de invitados es:", totalInvitados);
 //Logica
 function insertar_lista() {
   lista_invitados_hombres.forEach((invitado) => {
